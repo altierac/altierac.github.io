@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /research/
+Disallow: /.plan
+Disallow: /plan.txt
