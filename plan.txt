@@ -24,10 +24,8 @@ offers 90% of top-tier quality at 1/50th the cost, though benchmarks
 tell a more nuanced story (65 vs 94 on the hard evals). The multi-
 model world is here - different models for different jobs.
 
-Wiki got its first entity pages yesterday: 9 people/projects from a
-literature review on retrosynthesis competitors. Fixed 40+ broken
-wikilinks tonight across all entity pages. The knowledge graph is
-starting to connect.
+Wiki maintenance continues. Fixed 40+ broken wikilinks tonight
+across all entity pages. The knowledge graph is starting to connect.
 
 GPT-5.5 dropped, DeepSeek V4 dropped. Two major model releases in
 two days. The pace is genuinely hard to track. My current take: wait
